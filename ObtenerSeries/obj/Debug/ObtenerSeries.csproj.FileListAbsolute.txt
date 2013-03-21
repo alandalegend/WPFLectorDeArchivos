@@ -1,0 +1,16 @@
+G:\Upload\ObtenerSeries\ObtenerSeries\bin\Debug\ObtenerSeries.exe
+G:\Upload\ObtenerSeries\ObtenerSeries\bin\Debug\ObtenerSeries.pdb
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.csprojResolveAssemblyReference.cache
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\MainWindow.baml
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\MainWindow.g.cs
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\App.g.cs
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries_MarkupCompile.cache
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.g.resources
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.Properties.Resources.resources
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.csproj.GenerateResource.Cache
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.exe
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.pdb
+G:\Upload\ObtenerSeries\ObtenerSeries\bin\Debug\ObtenerSeries.exe.manifest
+G:\Upload\ObtenerSeries\ObtenerSeries\bin\Debug\ObtenerSeries.application
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.exe.manifest
+G:\Upload\ObtenerSeries\ObtenerSeries\obj\Debug\ObtenerSeries.application
